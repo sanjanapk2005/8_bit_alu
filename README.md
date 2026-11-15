@@ -9,26 +9,26 @@ The ALU performs arithmetic and logical operations on 8-bit input operands based
 
 ## **Tools and Technologies**
 
-Verilog HDL
+- Verilog HDL
 
-Xilinx Vivado 2025.1
+- Xilinx Vivado 2025.1
 
 ## **Project Files**
 
-alu_src_code.v – Main ALU design module.
+- alu_src_code.v – Main ALU design module.
 
-alu_tb.v – Testbench for functional verification.
+- alu_tb.v – Testbench for functional verification.
 
-Design and Verification
+- Design and Verification
 
-The ALU functionality is verified using a Verilog testbench through simulation in Xilinx Vivado.
+- The ALU functionality is verified using a Verilog testbench through simulation in Xilinx Vivado.
 
 ## **Key Learning Outcomes**
 
-RTL design using Verilog HDL.
+- RTL design using Verilog HDL.
 
-Understanding arithmetic and logical operations.
+- Understanding arithmetic and logical operations.
 
-Functional verification using testbenches.
+- Functional verification using testbenches.
 
-Simulation and debugging using Vivado.
+- Simulation and debugging using Vivado.
