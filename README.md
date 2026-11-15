@@ -19,7 +19,7 @@ The ALU performs arithmetic and logical operations on 8-bit input operands based
 
 - alu_tb.v – Testbench for functional verification.
 
-- Design and Verification
+## **Design and Verification**
 
 - The ALU functionality is verified using a Verilog testbench through simulation in Xilinx Vivado.
 
