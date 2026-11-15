@@ -37,7 +37,7 @@ The ALU performs arithmetic and logical operations on 8-bit input operands based
 
 ## ALU Block Diagram
 
-![ALU Block Diagram](alu_block%diagram.png)
+![ALU Block Diagram](alu_block%20diagram.png)
 
 ---
 
