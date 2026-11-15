@@ -32,3 +32,15 @@ The ALU performs arithmetic and logical operations on 8-bit input operands based
 - Functional verification using testbenches.
 
 - Simulation and debugging using Vivado.
+
+---
+
+## ALU Block Diagram
+
+![ALU Block Diagram](alu_block_diagram.png)
+
+---
+
+## Simulation Results
+
+![ALU Simulation Waveform](alu_simulation_waveform.png)
